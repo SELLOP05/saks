@@ -1,0 +1,30 @@
+body{
+    background-color: rgb(51, 204, 51);
+}
+h1{
+    color: blue;
+    font-size: 30px;
+}
+.short{
+    color: red;
+}
+.talkative{
+    color:red;
+}
+h2{
+    color: blue;
+    font-style: normal;
+}
+h3{
+    color: blue;
+    font-style: normal;
+}
+h5{
+    color: blue;
+    font-style: normal;
+    font-size: 20px;
+}
+.IMDB{
+    color:red;
+
+}
